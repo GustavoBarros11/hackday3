@@ -11,7 +11,7 @@ id_cliente,limite_adicional
 23,Negar
 39,Negar
 41,Negar
-55,Conceder
+55,Negar
 56,Negar
 61,Negar
 65,Negar
@@ -22,7 +22,7 @@ id_cliente,limite_adicional
 90,Negar
 95,Negar
 98,Negar
-99,Conceder
+99,Negar
 106,Negar
 117,Negar
 118,Negar
@@ -995,7 +995,7 @@ id_cliente,limite_adicional
 4325,Negar
 4331,Negar
 4347,Negar
-4350,Conceder
+4350,Negar
 4357,Negar
 4359,Negar
 4361,Negar
@@ -1360,7 +1360,7 @@ id_cliente,limite_adicional
 5918,Negar
 5920,Negar
 5926,Negar
-5927,Conceder
+5927,Negar
 5942,Negar
 5947,Negar
 5948,Negar
@@ -1537,7 +1537,7 @@ id_cliente,limite_adicional
 6617,Negar
 6618,Negar
 6620,Negar
-6630,Conceder
+6630,Negar
 6634,Negar
 6636,Negar
 6639,Negar
